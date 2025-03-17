@@ -9,7 +9,11 @@ This repository contains the implementation of a simple feed-forward neural netw
 - **Training and Evaluation**: Supports training the model on datasets, calculating loss, and evaluating accuracy.
 - **Data Handling**: The code supports datasets such as  **make_moons**.
 
-## script run
+# Running the Neural Network Script
 
--navigate to the foder in which you put my script then run
--python neural_network_from_scratch.py
+To run the `neural_network_from_scratch.py` script, follow these steps:
+
+1. **Navigate to the folder** where the script is located. You can do this using the `cd` command in your terminal or command prompt.
+
+   ```bash
+   cd path/to/your/script/folder
