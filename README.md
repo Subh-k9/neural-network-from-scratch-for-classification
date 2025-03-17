@@ -7,11 +7,9 @@ This repository contains the implementation of a simple feed-forward neural netw
 - **Activation Functions**: Supports different activation functions such as Sigmoid, ReLU, and Tanh.
 - **Backpropagation**: Implements the backpropagation algorithm to update weights and biases.
 - **Training and Evaluation**: Supports training the model on datasets, calculating loss, and evaluating accuracy.
-- **Data Handling**: The code supports datasets such as **Fashion MNIST** and **make_moons**.
+- **Data Handling**: The code supports datasets such as  **make_moons**.
 
-## Installation
+## script run
 
-To use this code, ensure you have Python 3.x installed along with the required dependencies. You can install the dependencies using `pip`:
-
-```bash
-pip install numpy matplotlib
+navigate to the foder in which you put my script then run
+python neural_network_from_scratch.py
