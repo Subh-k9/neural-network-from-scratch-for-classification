@@ -17,3 +17,9 @@ To run the `neural_network_from_scratch.py` script, follow these steps:
 
    ```bash
    cd path/to/your/script/folder
+# Running the Neural Network Script
+
+To execute the `neural_network_from_scratch.py` script, run the following command:
+
+```bash
+python neural_network_from_scratch.py
