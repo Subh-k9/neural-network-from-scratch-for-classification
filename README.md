@@ -11,5 +11,5 @@ This repository contains the implementation of a simple feed-forward neural netw
 
 ## script run
 
-navigate to the foder in which you put my script then run
-python neural_network_from_scratch.py
+-navigate to the foder in which you put my script then run
+-python neural_network_from_scratch.py
