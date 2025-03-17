@@ -11,7 +11,7 @@ This repository contains the implementation of a simple feed-forward neural netw
 
 # Running the Neural Network Script
 
-To run the `neural_net_from_scratch.py` script, follow these steps:
+To run the `neural_net_scratch.py` script, follow these steps:
 
 1. **Navigate to the folder** where the script is located. You can do this using the `cd` command in your terminal or command prompt.
 
@@ -19,7 +19,7 @@ To run the `neural_net_from_scratch.py` script, follow these steps:
    cd path/to/your/script/folder
 # Running the Neural Network Script
 
-To execute the `neural_net_from_scratch.py` script, run the following command:
+To execute the `neural_net_scratch.py` script, run the following command:
 
 ```bash
-python neural_net_from_scratch.py
+python neural_net_scratch.py
